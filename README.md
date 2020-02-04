@@ -1,0 +1,1 @@
+# Polinomial second degree solver
